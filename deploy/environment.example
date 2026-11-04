@@ -1,0 +1,4 @@
+GOOGLE_SHEET_ID=YOUR_GOOGLE_SPREADSHEET_ID
+GOOGLE_APPLICATION_CREDENTIALS=/etc/golova/service-account.json
+GOLOVA_CONFIG=/etc/golova/config.json
+GOLOVA_ORIGINS=https://bar27.ru,https://www.bar27.ru
